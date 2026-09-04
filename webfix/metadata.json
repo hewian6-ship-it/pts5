@@ -1,0 +1,6 @@
+{
+  "name": "Peace Tech Solution POS",
+  "description": "Complete private POS, inventory, quotation, invoicing, deposit, and business accounting management system for Peace Tech Solution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
